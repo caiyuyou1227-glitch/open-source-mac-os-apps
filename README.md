@@ -6009,6 +6009,9 @@ You can see in which language an app is written. Currently there are following l
   **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift 
 
   **Website:** [https://appfair.app](https://appfair.app)
+  - [tequila](https://github.com/caiyuyou1227-glitch/tequila) - Native macOS productivity app with Focus, Timer, Calendar, and Mail.
+
+  **Languages:** <img src='./icons/swift-64.png' alt='Swift icon' title='Swift' height='16'/> Swift
 
   <details>
   <summary>Screenshots</summary>
