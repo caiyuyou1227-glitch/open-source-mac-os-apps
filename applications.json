@@ -35,6 +35,24 @@
             ]
         },
         {
+            "title": "Tequila",
+            "short_description": "A native macOS productivity app integrating Focus, Timer, Calendar, Unified Mail, and Logs.",
+            "categories": [
+                "productivity",
+                "utilities"
+            ],
+            "repo_url": "https://github.com/caiyuyou1227-glitch/tequila",
+            "icon_url": "https://raw.githubusercontent.com/caiyuyou1227-glitch/tequila/main/tequila/Assets.xcassets/AppIcon.appiconset/icon_512x512%402x.png",
+            "screenshots": [
+                "https://raw.githubusercontent.com/caiyuyou1227-glitch/tequila/main/screenshots/focus.png",
+                "https://raw.githubusercontent.com/caiyuyou1227-glitch/tequila/main/screenshots/calendar.png"
+            ],
+            "official_site": "https://github.com/caiyuyou1227-glitch/tequila",
+            "languages": [
+                "swift"
+            ]
+        }，
+        {
             "title": "VPN Bypass",
             "short_description": "Route specific domains and services around your corporate VPN while keeping the rest of your traffic protected.",
             "categories": [
